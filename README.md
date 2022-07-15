@@ -11,7 +11,7 @@
 + `$ sudo npm install --global yarn`
 
 ### vscode nautilus
-+ `$ wget -qO- https://raw.githubusercontent.com/ZacariasBecker/code-nautilus/master/install.sh | bash`
++ `$ wget -qO- https://raw.githubusercontent.com/harry-cpp/code-nautilus/master/install.sh | bash`
 
 
 ### zsh
